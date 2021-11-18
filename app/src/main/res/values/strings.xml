@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_World</string>
+    <string name="txt_home_hello_world">Hello_World</string>
+    <string name="txt_home_button" translatable="false">ok</string>
+</resources>
